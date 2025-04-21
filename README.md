@@ -5,6 +5,7 @@ Unity freecam can be found in demo scene
 CONTROLS:
 
 1 - Enable Freecam
+
 2 - Disable Freecam
 
 WASD to move
