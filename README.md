@@ -2,7 +2,7 @@ Unity Freecam using new input system
 
 Unity freecam can be found in demo scene
 
-CONTROLS:
+DEFAULT CONTROLS:
 
 1 - Enable Freecam
 
@@ -19,3 +19,5 @@ Q - Move cam down
 R - Swap render layers
 
 Shift - Move cam fast
+
+Controls can be configured in Player_Actions scriptable object
